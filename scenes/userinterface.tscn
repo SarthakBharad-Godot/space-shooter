@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://cpmwlpq5eglsr"]
 
-[ext_resource type="Script" uid="uid://ca5v127v3nyr0" path="res://scenes/userinterface.gd" id="1_c4ape"]
-[ext_resource type="FontFile" uid="uid://bj6i74t4q427f" path="res://assets/Bonus/kenvector_future.ttf" id="1_x4jx1"]
+[ext_resource type="Script" uid="uid://ca5v127v3nyr0" path="res://scripts/userinterface.gd" id="1_c4ape"]
+[ext_resource type="FontFile" uid="uid://deeomveixear7" path="res://assets/Bonus/kenvector_future.ttf" id="1_x4jx1"]
 
 [node name="UserInterface" type="CanvasLayer" groups=["ui"]]
 script = ExtResource("1_c4ape")

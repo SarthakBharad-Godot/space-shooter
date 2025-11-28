@@ -1,9 +1,9 @@
 [gd_scene load_steps=5 format=3 uid="uid://dxshshdn1pt2r"]
 
-[ext_resource type="Script" uid="uid://ci6ctw6r3ugfi" path="res://scenes/gameover.gd" id="1_2mkfd"]
-[ext_resource type="FontFile" uid="uid://bj6i74t4q427f" path="res://assets/Bonus/kenvector_future.ttf" id="1_dy3ie"]
-[ext_resource type="FontFile" uid="uid://caulbmqgqopl3" path="res://assets/Bonus/kenvector_future_thin.ttf" id="2_2mkfd"]
-[ext_resource type="AudioStream" uid="uid://btyd4duy4f6i1" path="res://assets/Bonus/Hip Hop Intro.mp3" id="4_h8i2o"]
+[ext_resource type="Script" uid="uid://ci6ctw6r3ugfi" path="res://scripts/gameover.gd" id="1_2mkfd"]
+[ext_resource type="FontFile" uid="uid://deeomveixear7" path="res://assets/Bonus/kenvector_future.ttf" id="1_dy3ie"]
+[ext_resource type="FontFile" uid="uid://bcu428hui1jqk" path="res://assets/Bonus/kenvector_future_thin.ttf" id="2_2mkfd"]
+[ext_resource type="AudioStream" uid="uid://bmnog4hkcdl5k" path="res://assets/Bonus/Hip Hop Intro.mp3" id="4_h8i2o"]
 
 [node name="GameOver" type="Control"]
 layout_mode = 3

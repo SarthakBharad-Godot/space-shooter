@@ -1,7 +1,7 @@
 [gd_scene load_steps=4 format=3 uid="uid://d35d600ekoi2p"]
 
-[ext_resource type="Script" uid="uid://6nwbs7p6j2re" path="res://scenes/meteor.gd" id="1_pxso2"]
-[ext_resource type="AudioStream" uid="uid://cjr84nrwea1qj" path="res://assets/Bonus/sfx_twoTone.ogg" id="2_pxso2"]
+[ext_resource type="Script" uid="uid://6nwbs7p6j2re" path="res://scripts/meteor.gd" id="1_pxso2"]
+[ext_resource type="AudioStream" uid="uid://cl47ximejj3hr" path="res://assets/Bonus/sfx_twoTone.ogg" id="2_pxso2"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_pxso2"]
 radius = 52.1728

@@ -1,13 +1,13 @@
 [gd_scene load_steps=14 format=3 uid="uid://8nt8jhwd7k1i"]
 
 [ext_resource type="PackedScene" uid="uid://b6culji4mri" path="res://scenes/player.tscn" id="1_2q6dc"]
-[ext_resource type="Script" uid="uid://dx1wotps5l2uf" path="res://scenes/level.gd" id="1_mx8sn"]
-[ext_resource type="Texture2D" uid="uid://bi4q5lrfpeanb" path="res://assets/Backgrounds/blue.png" id="2_2r41h"]
-[ext_resource type="Texture2D" uid="uid://c218gqpdukxr4" path="res://assets/PNG/Effects/star1.png" id="4_2r41h"]
-[ext_resource type="Texture2D" uid="uid://btl1bfhifibcq" path="res://assets/PNG/Effects/star2.png" id="5_klq6b"]
-[ext_resource type="Texture2D" uid="uid://ccl86bba582f8" path="res://assets/PNG/Effects/star3.png" id="6_b121j"]
+[ext_resource type="Script" uid="uid://dx1wotps5l2uf" path="res://scripts/level.gd" id="1_mx8sn"]
+[ext_resource type="Texture2D" uid="uid://dkldaonjljcn7" path="res://assets/Backgrounds/blue.png" id="2_2r41h"]
+[ext_resource type="Texture2D" uid="uid://1umf8611er8q" path="res://assets/PNG/Effects/star1.png" id="4_2r41h"]
+[ext_resource type="Texture2D" uid="uid://bk4vosa2hppr5" path="res://assets/PNG/Effects/star2.png" id="5_klq6b"]
+[ext_resource type="Texture2D" uid="uid://b3646jvaj6bn7" path="res://assets/PNG/Effects/star3.png" id="6_b121j"]
 [ext_resource type="PackedScene" uid="uid://cpmwlpq5eglsr" path="res://scenes/userinterface.tscn" id="7_klq6b"]
-[ext_resource type="AudioStream" uid="uid://c35pfiq0ydmxy" path="res://assets/Bonus/Archetype.mp3" id="8_b121j"]
+[ext_resource type="AudioStream" uid="uid://pfdv6w80gyfj" path="res://assets/Bonus/Archetype.mp3" id="8_b121j"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_w8frs"]
 animations = [{
