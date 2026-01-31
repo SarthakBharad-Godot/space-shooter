@@ -124,6 +124,10 @@ space-shooter/
 
 This project uses **free assets from [Kenney.nl](https://kenney.nl)**, a fantastic resource for game developers providing royalty-free game art.
 
+### Learning Resources
+
+This project was developed following the **[Godot 2D Game Development Tutorial Playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9iHCXBpxbdsOByZ55Ez4bgF)** on YouTube, which provided excellent guidance on 2D game mechanics and Godot Engine best practices.
+
 ### Asset Customization
 
 The repository includes both:
