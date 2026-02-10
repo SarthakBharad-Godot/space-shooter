@@ -26,8 +26,16 @@ A fast-paced 2D arcade-style space shooter game built with **Godot Engine**. Pil
 - **Classic Arcade Gameplay** – Avoid or destroy asteroids to survive
 - **Score System** – Track your high scores and challenge yourself
 - **Smooth Controls** – Responsive movement and shooting mechanics
+- **Screenshot-Utility** – Capture your best moments with a single keystroke.
 - **Asset-Rich** – Includes ready-to-use assets with customizable extras
 - **Open Source** – GPL-3.0 licensed, free to modify and distribute
+
+---
+
+# 📸 Screenshots
+
+### Gameplay
+![Average Gameplay](/GAMEPLAY_SCREENSHOT.png)
 
 ---
 
@@ -42,6 +50,10 @@ A fast-paced 2D arcade-style space shooter game built with **Godot Engine**. Pil
 | **Move Left** | `A` or `←` Arrow Key |
 | **Move Right** | `D` or `→` Arrow Key |
 | **Shoot** | `Left Mouse Button` or `LMB` |
+| **Take Screenshot** | `B` |
+
+> [!IMPORTANT]
+> **To use the Screenshot feature:** You must define your preferred save path in the global script located at `global/global.gd` before the images can be saved to your local drive. MAKE SURE YOU DEFINE A PATH BEFORE STARTING THE GAME OR IT WILL NOT RUN !!!
 
 ### Objective
 
