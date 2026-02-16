@@ -9,7 +9,7 @@ func capture_screenshot():
 	
 	# 1. Define your specific Windows path
 	# Use forward slashes (/) or escaped backslashes (\\) in GDScript strings
-	var folder_path = "YOUR_PATH_HERE"
+	var folder_path = "C:\Users\sarth\Pictures\Screenshots"
 	
 	# 2. Format the filename
 	var time = Time.get_datetime_dict_from_system()

@@ -107,12 +107,12 @@ cd space-shooter
 
 ```
 space-shooter/
-├── assets/                 # Game sprites, textures, and audio
-│   ├── enemies/           # Asteroid and enemy sprites
-│   ├── player/            # Player spaceship sprites
-│   ├── bullets/           # Projectile assets
-│   ├── effects/           # Explosion and particle effects
-│   └── audio/             # Sound effects and music
+├── assets/                # Game sprites, textures, and audio
+│   ├── enemies/
+│   ├── player/
+│   ├── bullets/
+│   ├── effects/
+│   └── audio/
 ├── scenes/                # Godot scene files (.tscn)
 │   ├── player.tscn
 │   ├── asteroid.tscn
