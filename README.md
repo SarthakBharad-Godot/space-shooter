@@ -104,9 +104,10 @@ cd space-shooter
 ---
 
 ## 📁 Project Structure
+![File Structure](FILE_STRUCTURE.png)
 
 ```
-space-shooter/
+res://
 ├── assets/                # Game sprites, textures, and audio
 │   ├── enemies/
 │   ├── player/
